@@ -9,6 +9,6 @@
   "author": "Chris Blendermann",
   "license": "ISC",
   "bin": {
-    "cblender": "./index.js"
+    "npm cblender": "./index.js"
   }
 }
