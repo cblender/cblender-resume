@@ -1,0 +1,33 @@
+{
+  "name": "Chris Blendermann",
+  "website": "https://makestuff.artstation.com/",
+  "linkedin": "https://www.linkedin.com/in/christopher-blender/",
+  "github": "cblender",
+  "email": "christopher.blender@gmail.com",
+  "resume": "https://makestuff.artstation.com/albums/1172353",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Adobe",
+    "Photoshop",
+    "Illustrator",
+    "Indesign",
+    "Blender",
+    "Unity"
+  ],
+  "otherSkills": [
+    "3D Modeling",
+    "Hardsurface Rendering",
+    "Typography",
+    "Visual Design",
+    "Game Design",
+    "Concept Art",
+    "Digital Art"
+  ]
+}
